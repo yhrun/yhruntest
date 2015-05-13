@@ -1,0 +1,88 @@
+body {
+    background: #d7e7ef;
+    color: #505050;
+}
+p {
+    color: #505050;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #504f4f;
+}
+h3 {
+    color: #456474;
+}
+a.button, a.button span {
+    background-image: url(../images/button-blue.png);
+    color: #62889a;
+    text-shadow: 0px 1px 0px #e5eef3;
+}
+/* MIDDLE */
+/* ----------------------------------------- */
+#middle-wrapper {
+    background: transparent url(../images/mid-bg-blue.jpg) repeat-x;
+}
+#middle {
+    background: transparent url(../images/shadow-blue.jpg) no-repeat top center;
+}
+.carousel-next {
+    background: transparent url(../images/next-blue.png) no-repeat 0 0;
+}
+.carousel-prev {
+    background: transparent url(../images/prev-blue.png) no-repeat 0 0;
+}
+.intro {
+    color: #7da0b3;
+}
+input.newsletter {
+    border: 1px solid #b4c8d9;
+    border-right: none;
+    background-color: #fcfcfc;
+    color: #7a7a7a;
+}
+input.newsletter2 {
+    border: 1px solid #b4c8d9;
+    border-right: none;
+    background-color: #fcfcfc;
+    color: #7a7a7a;
+}
+button {
+    background: transparent url(../images/submit-blue.png) no-repeat 0 0;
+    color: #62889a;
+    text-shadow: 0px 1px 0px #e5eef3;
+}
+.resultText {
+	color: #7a7a7a;
+}
+#testimonials-wrapper {
+    background-color: #c9dce6;
+}
+.testimonials .message {
+    background-color: #c9dce6;
+}
+.testimonials .message p {
+    color: #456474;
+    background: transparent url(../images/quote-blue.png) no-repeat left top;
+}
+.testimonials .message strong {
+    color: #456474;
+}
+#testimonials-wrapper2 {
+    background-color: #c9dce6;
+}
+.testimonials2 {
+	background-color: #c9dce6;
+}
+.testimonials2 .message2 li {
+	background: transparent url(../images/quote-blue.png) no-repeat left 0px;
+}
+.testimonials2 .message2 li p {
+    color: #456474;  
+}
+.testimonials2 .message2 strong {
+    color: #456474;
+}
+/* FOOTER */
+/* ----------------------------------------- */
+#footer-wrapper {
+    background: transparent url(../images/footer-bg-blue.jpg) repeat-x;
+}
